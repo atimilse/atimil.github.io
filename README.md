@@ -45,10 +45,14 @@ Thanks for visiting my portfolio—I’m excited to share my projects and growth
 
 ### ASEAN Economic Analysis for Market Expansion
 
+![PowerBI Dashboard](images/Dashboard.png)
 
 Tools & Skills: Python (Pandas), SQL Server, Power BI, Data Cleaning, Economic Research, Market Analysis, Dashboard Design
 
 This project supported Timrow Traders’ international expansion strategy by analyzing 10 years of macroeconomic data across ASEAN countries. Using data from the IMF World Economic Outlook, it assessed key indicators like GDP, inflation, unemployment, and population trends to identify the most viable markets. The analysis concluded that Malaysia, Philippines, and Indonesia offer the strongest potential for growth, labor availability, and economic stability.
+
+
+🔗 [View GitHub Repo](https://github.com/atimilse/EconomicAnalysis)
 
 
 
@@ -57,12 +61,14 @@ This project supported Timrow Traders’ international expansion strategy by ana
 
 ### Coffee Consumption Analysis by Demographics and Lifestyle
 
+![Tableau Dashboard](images/Tableau_Dashboard.png)
+
 
 Tools & Skills: Python (Pandas), Tableau, Data Cleaning, Survey Analysis, Data Visualization, Consumer Behavior Insights
 
 This project analyzes coffee consumption patterns across age, gender, work environments, and employment status using survey data from the Great American Coffee Taste Test. Insights from the analysis help identify key consumer segments and provide strategic recommendations for product development and targeted marketing in the coffee industry.
 
-
+🔗 [View GitHub Repo](https://github.com/atimilse/CoffeeDataAnalysis)
 
 ---
 
