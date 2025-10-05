@@ -47,9 +47,9 @@ Thanks for visiting my portfolio—I’m excited to share my projects and growth
 
 ![PowerBI Dashboard](images/Dashboard.png)
 
-Tools & Skills: Python (Pandas), SQL Server, Power BI, Data Cleaning, Economic Research, Market Analysis, Dashboard Design
+Tools & Skills: Python (Pandas), SQL Server, Power BI, Data Cleaning, Economic Research, Market Analysis, Predictive Modeling, Dashboard Design
 
-This project supported Timrow Traders’ international expansion strategy by analyzing 10 years of macroeconomic data across ASEAN countries. Using data from the IMF World Economic Outlook, it assessed key indicators like GDP, inflation, unemployment, and population trends to identify the most viable markets. The analysis concluded that Malaysia, Philippines, and Indonesia offer the strongest potential for growth, labor availability, and economic stability.
+This project supported Timrow Traders’ international expansion strategy by analyzing 10 years of macroeconomic data across ASEAN countries. Using data from the IMF World Economic Outlook, it assessed key indicators like GDP, inflation, unemployment, and population trends to identify the most viable markets. The analysis concluded that Malaysia, Philippines, and Indonesia offer the strongest potential for growth, labor availability, and economic stability. A predictive analysis was also conducted using linear regression to forecast economic performance from 2023 to 2026. Linear regression was selected over time series models like ARIMA or Prophet due to the small dataset and lack of seasonality.
 
 
 🔗 [View GitHub Repo](https://github.com/atimilse/ASEANEconomicAnalysis)
