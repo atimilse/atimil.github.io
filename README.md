@@ -1,10 +1,10 @@
 # Hello!
 
-I’m a student at George Mason University majoring in Business with a concentration in Management of Information Systems, and minoring in Computational and Data Science. I’m passionate about turning raw data into strategic insights that drive better business decisions.
+I’m a student at George Mason University majoring in Business with a concentration in Management of Information Systems. I’m passionate about turning raw data into strategic insights that drive better business decisions.
 
 My skill set includes using Python and SQL for in-depth data analysis and actionable insights. I’ve also built a strong foundation in data visualization, with experience using both Power BI and Tableau to create clear, impactful dashboards that communicate complex stories effectively.
 
-I hold the AWS Certified Cloud Practitioner (CCP) certification, which has strengthened my understanding of cloud fundamentals and how cloud technologies support scalable, data-driven solutions. As I continue into a new academic year, I’m excited to expand my knowledge in areas like data warehousing and big data technologies (Hadoop, Spark, Kafka) through my CDS coursework.
+I hold the AWS Certified Cloud Practitioner (CCP) certification, which has strengthened my understanding of cloud fundamentals and how cloud technologies support scalable, data-driven solutions. As I approach the completion of my degree, I am focused on building my expertise in data mining and predictive modeling while deepening my skills in systems analysis and design.
 
 Thanks for visiting my portfolio—I’m excited to share my projects and growth with you!
 
