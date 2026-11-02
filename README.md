@@ -80,3 +80,12 @@ This project analyzes customer behavior and demographics, including loyalty enro
 
 🔗 [View GitHub Repo](https://github.com/atimilse/ConversionAnalysis)
 
+---
+### Hiring Analysis
+
+
+Tools & Skills: R, Data Cleaning, Data Integration, Data Joins, Descriptive Statistics, Exploratory Data Analysis, Data Visualization, Summary Tables
+
+This project analyzes hiring outcomes at a global technology company using four integrated candidate datasets (3,500 candidates), examining online professional presence, age, years of experience, machine learning self-scores, and technical assessment results. Using descriptive statistics, summary tables, and visualizations, the analysis compares hired and rejected candidates and finds that candidates with a stronger LinkedIn presence, more experience, and higher technical and machine learning scores are hired at higher rates. Insights from the analysis provide strategic recommendations for strengthening recruitment and screening practices, including evaluating professional online presence, setting role-specific experience requirements, and implementing customized technical benchmarks. The final code and report are available upon request and are not made public due to academic integrity.
+
+🔗 [View GitHub Repo](https://github.com/atimilse/HiringAnalysis)
