@@ -71,4 +71,12 @@ This project analyzes coffee consumption patterns across age, gender, work envir
 🔗 [View GitHub Repo](https://github.com/atimilse/CoffeeConsumptionAnalysis)
 
 ---
+### Conversion Analysis
+
+
+Tools & Skills: R, Exploratory Data Analysis, Data Visualization, Logistic Regression, QDA, KNN, Linear Regression, Model Evaluation (ROC-AUC, F1, Confusion Matrix)
+
+This project analyzes customer behavior and demographics, including loyalty enrollment, promotion use, income, occupation, household size, and commute distance, to identify what drives fuel customers to also shop in a convenience store. Using exploratory analysis, classification models (Logistic Regression, QDA, and KNN), and a regression model for store visits, the analysis highlights the key factors behind conversion and provides strategic recommendations for loyalty programs, promotions, and food service offerings in the fuel and convenience retail industry. The final code and report are available upon request and are not made public due to academic integrity.
+
+🔗 [View GitHub Repo](https://github.com/atimilse/ConversionAnalysis)
 
